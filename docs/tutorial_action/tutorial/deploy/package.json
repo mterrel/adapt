@@ -1,0 +1,16 @@
+{
+  "name": "blank",
+  "version": "0.0.1",
+  "description": "Adapt starter: blank",
+  "license": "BSD-3-Clause",
+  "scripts": {},
+  "author": "",
+  "dependencies": {
+    "@adpt/cloud": "latest",
+    "@adpt/core": "latest",
+    "@types/node": "^8",
+    "fs-extra": "^8.1.0",
+    "source-map-support": "^0.5.6",
+    "typescript": "^3.0.3"
+  }
+}
